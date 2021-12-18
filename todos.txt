@@ -1,0 +1,18 @@
+project: Coding Interview University,
+tasks  : 
+     * [x] Finsih Array 
+     * [x] Finsih Stack 
+     * [x] Finsih Queue 
+     * [] Finish BST 
+
+---
+project : File Praser Using Go,
+tasks   : 
+     * [x] finish first prototype 
+     * [] handle corner cases
+
+---
+project : Learn Go,
+tasks   : 
+     * [x] finsih go tutorial point 
+     * [] finish Go By Example Content
